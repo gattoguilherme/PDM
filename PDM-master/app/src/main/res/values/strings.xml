@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Países</string>
+    <string name="welcome">Welcome to Android App Development</string>
+    <string name="textview_country">Brasil</string>
+    <string name="nome_comida">Feijoada</string>
+    <string name="bandeira_name">Bandeira do Brasil</string>
+    <string name="comida_tipica">Feijoada</string>
+</resources>

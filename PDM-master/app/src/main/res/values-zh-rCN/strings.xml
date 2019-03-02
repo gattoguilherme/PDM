@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国家</string>
+    <string name="textview_country">中国</string>
+    <string name="nome_comida">宗子</string>
+    <string name="bandeira_name">日本国旗</string>
+    <string name="comida_tipica">宗子</string>
+</resources>

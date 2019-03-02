@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="imagem_bandeira">@drawable/bandeira_as</drawable>
+    <drawable name="imagem_comida">@drawable/hummus</drawable>
+</resources>

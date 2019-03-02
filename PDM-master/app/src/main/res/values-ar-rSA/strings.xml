@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البلدان</string>
+    <string name="textview_country">"المملكة العربية السعودية "</string>
+    <string name="nome_comida">الحمص</string>
+    <string name="comida_tipica">الحمص</string>
+    <string name="bandeira_name">"علم المملكة العربية السعودية "</string>
+</resources>

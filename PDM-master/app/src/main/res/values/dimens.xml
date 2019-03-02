@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_textsize">40sp</dimen>
+    <dimen name="imageview_width">250dp</dimen>
+    <dimen name="textview_fontsize">24sp</dimen>
+</resources>

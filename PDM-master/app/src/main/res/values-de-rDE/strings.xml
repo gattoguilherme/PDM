@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome to Android App Development</string>
+    <string name="textview_country">Deutschland</string>
+    <string name="nome_comida">Schnitzel</string>
+    <string name="comida_tipica">Schnitzel</string>
+    <string name="app_name">Länder</string>
+    <string name="textview_country">Deutschland</string>
+    <string name="nome_comida">Schnitzel</string>
+    <string name="comida_tipica">Schnitzel</string>
+    <string name="bandeira_name">Flagge Deutschlands</string>
+</resources>

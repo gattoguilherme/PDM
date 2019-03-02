@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bandeira_pais">bandeira_brasil.png</drawable>
+    <drawable name="imagem_bandeira">@drawable/bandeira_brasil</drawable>
+    <drawable name="imagem_comida">@drawable/feijoad</drawable>
+</resources>
